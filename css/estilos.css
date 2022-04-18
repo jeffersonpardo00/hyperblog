@@ -34,3 +34,8 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#footer{
+    background-color: rgb(48, 176, 48);
+    text-align: center;
+}
