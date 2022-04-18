@@ -1,0 +1,31 @@
+body{
+    color: #333;
+    text-align: center;
+    font-family: arial;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid gray;
+}
+
+#container{
+    font-size: 20px;
+}
+
+#cabecera{
+    background: #8d8dbe;
+    box-shadow: 0 2px 9px 0px rgb(0 0 0 / 43%);
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+#cabecera #tagline {
+    padding:  0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
