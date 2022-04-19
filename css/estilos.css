@@ -10,10 +10,13 @@ body{
     text-align: left;
     border: 1px solid gray;
     background-color: #333;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #post{
     background-color: white;
+    padding: 10px;
 }
 
 #container{
@@ -38,4 +41,5 @@ body{
 #footer{
     background-color: rgb(48, 176, 48);
     text-align: center;
+    padding: 10px;
 }
